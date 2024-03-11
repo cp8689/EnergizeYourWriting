@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Energize Your Writing</title>
+    <link>/categories/test/</link>
+    <description>Recent content in Test on Energize Your Writing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>lol</title>
+      <link>/blog/goisforlovers/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/goisforlovers/</guid>
+      <description>Becoming a better writer takes time, but there is an untalked of mindset that great writers have that gives them the edge above the rest.
+Most people tend to believe that writers are born with talent and skill.
+This is dead wrong!
+However, the type of writing at which you perform best depends largely on the way you think. Thus, the key to writing more successfully is understanding how you think and which style of writing will be the most congruent with who you are as a person.</description>
+    </item>
+    
+  </channel>
+</rss>

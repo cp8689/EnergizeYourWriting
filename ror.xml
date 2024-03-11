@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.energizeyourwriting.com/</title>
+  <link>http://www.energizeyourwriting.com/</link>
+
+<item>
+     <link>https://energizeyourwriting.com/</link>
+     <title>Energize Your Writing</title>
+     <description>Real Writing Advice. For Read Writers.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://energizeyourwriting.com/about/</link>
+     <title>About Us - Energize Your Writing</title>
+     <description>Real Writing Advice. For Read Writers.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://energizeyourwriting.com/blog/</link>
+     <title>Blog - Energize Your Writing</title>
+     <description>Real Writing Advice. For Read Writers.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://energizeyourwriting.com/categories/</link>
+     <title>Categories - Energize Your Writing</title>
+     <description>Real Writing Advice. For Read Writers.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://energizeyourwriting.com/contact/</link>
+     <title>Contact - Energize Your Writing</title>
+     <description>Real Writing Advice. For Read Writers.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://energizeyourwriting.com/blog/9_11_19_post_2/</link>
+     <title>Become a better writer with these Writing tips</title>
+     <description>Take these writing tips as advice to improve your writing.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://energizeyourwriting.com/blog/8_20_19_post_1/</link>
+     <title>Can I Become a Better Writer?</title>
+     <description>Becoming a better writer takes time, but there is an untalked of mindset that great writers have that gives them the edge above the rest.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://energizeyourwriting.com/categories/writing-tips/</link>
+     <title>Writing Tips Posts - Energize Your Writing</title>
+     <description>Real Writing Advice. For Read Writers.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  

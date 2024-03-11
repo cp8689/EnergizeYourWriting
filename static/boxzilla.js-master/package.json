@@ -1,0 +1,40 @@
+{
+  "name": "boxzilla",
+  "version": "1.2.1",
+  "description": "Boxzilla.js is a simple library for creating boxes which can pop-up or slide-in at predefined moments.",
+  "main": "./src/boxzilla.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibericode/boxzilla.js"
+  },
+  "keywords": [
+    "jquery",
+    "pop-up",
+    "modal",
+    "slide-in"
+  ],
+  "author": "Danny van Kooten <hi@dvk.co>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ibericode/boxzilla.js/issues"
+  },
+  "homepage": "https://github.com/ibericode/boxzilla.js",
+  "dependencies": {
+    "wolfy87-eventemitter": "^5.2.5"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.3",
+    "@babel/core": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "babelify": "^10.0.0",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-insert": "^0.5.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}

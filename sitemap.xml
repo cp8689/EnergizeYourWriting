@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://energizeyourwriting.com/</loc>
+  <lastmod>2019-09-13T21:09:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://energizeyourwriting.com/about/</loc>
+  <lastmod>2019-09-13T21:10:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://energizeyourwriting.com/blog/</loc>
+  <lastmod>2019-09-13T21:09:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://energizeyourwriting.com/categories/</loc>
+  <lastmod>2019-09-13T21:10:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://energizeyourwriting.com/contact/</loc>
+  <lastmod>2019-09-13T21:10:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://energizeyourwriting.com/blog/9_11_19_post_2/</loc>
+  <lastmod>2019-09-13T21:10:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://energizeyourwriting.com/blog/8_20_19_post_1/</loc>
+  <lastmod>2019-09-13T21:10:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://energizeyourwriting.com/categories/writing-tips/</loc>
+  <lastmod>2019-09-13T21:10:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
